@@ -1,14 +1,11 @@
 ## Welcome to My Demo Page
 
 
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
 ### Workflow Diagrams
 
 I have set up a basic example of how data from an existing ResWare database can be used to auto-generate a diagram of a workflow.
 
-[Video Demo of Diagrams](https://youtu.be/AAQvr8BZ-mU).
+Click this link:  [Video Demo of Diagrams](https://youtu.be/AAQvr8BZ-mU).
 
 ```markdown
 Syntax highlighted code block
