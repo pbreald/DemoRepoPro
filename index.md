@@ -1,12 +1,14 @@
 ## Welcome to My Demo Page
 
-You can use the [editor on GitHub](https://github.com/pbreald/DemoRepoPro/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Workflow Diagrams
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+I have set up a basic example of how data from an existing ResWare database can be used to auto-generate a diagram of a workflow.
+
+[Video Demo of Diagrams](https://youtu.be/AAQvr8BZ-mU).
 
 ```markdown
 Syntax highlighted code block
