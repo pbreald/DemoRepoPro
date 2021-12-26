@@ -9,8 +9,8 @@ Click this link:  [Video Demo of Diagrams](https://youtu.be/AAQvr8BZ-mU).
 
 ### Script Example
 
-Your 
+Your xxx new info goes here
 
 ### Support or Contact
 
-Having 
+Having xxx changed this text you will see a change.
